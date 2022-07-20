@@ -37,7 +37,7 @@ module.exports = {
     'curly': [2, 'all'],
     'dot-location': [2, 'property'],
     'eol-last': 2,
-    'eqeqeq': ["error", "always", {"null": "ignore"}],
+    'eqeqeq': ["error", "always", { "null": "ignore" }],
     'handle-callback-err': [2, '^(err|error)$'],
     'indent': [2, 2, {
       'SwitchCase': 1
